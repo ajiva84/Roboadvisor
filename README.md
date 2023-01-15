@@ -1,7 +1,7 @@
 # Roboadvisor
 
 ----------------
-![Finanl Planning](module-15-challenge.png…)
+![Roboadvisor](module-15-challenge.png…)
 
 -----------------
 
