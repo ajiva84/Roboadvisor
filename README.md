@@ -7,7 +7,7 @@
 
 # Overview 
 
-I have developed a roboadvisor that provides investment portfolio recommendations for retirement. The Roboadvisor is build on Amazon Lex that establishes conversation with the client who is seeking advise on investment. I have also used lambda funtion to enhance the capability of the robo to handle the error scenarios and process the inputs provided by the user. 
+I have developed a robo advisor that provides investment portfolio recommendations for retirement. The Robo advisor is developed on Amazon Lex that establishes conversation with the client who is seeking advise on investment. I have also used lambda funtion to enhance the capability of the robo to handle the error scenarios and process the inputs provided by the user. 
 
 
 # Technologies 
@@ -31,7 +31,7 @@ Use the lambda funtion into the amazon lex bot
 
 # Robo Advisor in action 
 
-![](https://gfycat.com/relievedficklehake)
+![](https://github.com/ajiva84/Roboadvisor/blob/main/ezgif-1-5cb8fe9e61.gif)
 
 --------
 
